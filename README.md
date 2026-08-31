@@ -1,3 +1,2 @@
 # 1-API
-teste- repositório para acompanhamento e organização do trabalho para a disciplina de Projetor Integrador I na Fatec SJC
-*criar manual de orientação sobre a documentação disponibilizada*
+referências para auxiliar no trabalho de PI I
